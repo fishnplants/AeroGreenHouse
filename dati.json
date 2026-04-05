@@ -1,6 +1,6 @@
 {
-  "temperature": 25.4,
+  "temperature": 25.3,
   "humidity": 62.3,
-  "vpd": 1.0,
-  "timestamp": "2026/04/05 18:03:58"
+  "vpd": 0.995,
+  "timestamp": "2026/04/05 18:15:08"
 }
