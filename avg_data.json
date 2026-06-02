@@ -1,12 +1,12 @@
 {
-  "avg_temperature": 26.99,
-  "avg_humidity": 68.36,
-  "avg_vpd": 0.916,
-  "max_T": 30.0,
-  "min_T": 24.5,
-  "max_H": 72.8,
-  "min_H": 60.9,
-  "max_VPD": 1.288,
-  "min_VPD": 0.74,
-  "timestamp": "2026-06-01"
+  "avg_temperature": 26.57,
+  "avg_humidity": 71.67,
+  "avg_vpd": 0.807,
+  "max_T": 31.6,
+  "min_T": 22.7,
+  "max_H": 74.0,
+  "min_H": 67.6,
+  "max_VPD": 1.173,
+  "min_VPD": 0.659,
+  "timestamp": "2026-06-02"
 }
