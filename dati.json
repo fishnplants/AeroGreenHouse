@@ -1,6 +1,17 @@
 {
-  "temperature": 23.4,
-  "humidity": 66.1,
-  "vpd": 0.808,
-  "timestamp": "2026/08/08 14:36:10"
+  "temperature": 23.0,
+  "humidity": 68.4,
+  "vpd": 0.738,
+  "ph": 6.72,
+  "ec_us_cm": 118.5,
+  "tds_ppm": 64.0,
+  "salinity_psu": 0.0,
+  "errors": [
+    {
+      "timestamp": "2026/09/18 07:41:50",
+      "source": "EC",
+      "message": "Non è stato possibile leggere il sensore di conducibilità (EC), controlla il motivo: Nessuna scheda Arduino configurata per sonda di conducibilità (EC): aggiungila nella card 'Schede Arduino' della schermata Configurazione."
+    }
+  ],
+  "timestamp": "2026/09/18 09:48:40"
 }
