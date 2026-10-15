@@ -1,7 +1,7 @@
 {
   "temperature": 19.7,
-  "humidity": 67.7,
-  "vpd": 0.63,
+  "humidity": 67.6,
+  "vpd": 0.632,
   "ph": 6.72,
   "ec_us_cm": 118.5,
   "tds_ppm": 64.0,
@@ -33,5 +33,5 @@
       "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: lettura non attendibile, controlla il collegamento della sonda alla scheda 'Board4'."
     }
   ],
-  "timestamp": "2026/10/15 20:51:50"
+  "timestamp": "2026/10/15 20:57:01"
 }
