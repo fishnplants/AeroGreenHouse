@@ -1,17 +1,37 @@
 {
-  "temperature": 23.0,
-  "humidity": 68.4,
-  "vpd": 0.738,
+  "temperature": 20.5,
+  "humidity": 70.9,
+  "vpd": 0.593,
   "ph": 6.72,
   "ec_us_cm": 118.5,
   "tds_ppm": 64.0,
   "salinity_psu": 0.0,
   "errors": [
     {
-      "timestamp": "2026/09/18 07:41:50",
-      "source": "EC",
-      "message": "Non è stato possibile leggere il sensore di conducibilità (EC), controlla il motivo: Nessuna scheda Arduino configurata per sonda di conducibilità (EC): aggiungila nella card 'Schede Arduino' della schermata Configurazione."
+      "timestamp": "2026/10/15 19:47:00",
+      "source": "US_water",
+      "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: lettura non attendibile, controlla il collegamento della sonda alla scheda 'Board4'."
+    },
+    {
+      "timestamp": "2026/10/15 19:47:04",
+      "source": "US_water",
+      "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: lettura non attendibile, controlla il collegamento della sonda alla scheda 'Board4'."
+    },
+    {
+      "timestamp": "2026/10/15 19:47:41",
+      "source": "US_water",
+      "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: lettura non attendibile, controlla il collegamento della sonda alla scheda 'Board4'."
+    },
+    {
+      "timestamp": "2026/10/15 19:47:58",
+      "source": "US_water",
+      "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: lettura non attendibile, controlla il collegamento della sonda alla scheda 'Board4'."
+    },
+    {
+      "timestamp": "2026/10/15 19:48:01",
+      "source": "US_water",
+      "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: lettura non attendibile, controlla il collegamento della sonda alla scheda 'Board4'."
     }
   ],
-  "timestamp": "2026/09/18 09:48:40"
+  "timestamp": "2026/10/15 20:05:02"
 }
