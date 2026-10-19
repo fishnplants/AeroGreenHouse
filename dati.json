@@ -1,10 +1,10 @@
 {
-  "temperature": 19.2,
+  "temperature": 19.3,
   "humidity": 66.0,
-  "vpd": 0.645,
+  "vpd": 0.649,
   "ph": 6.72,
   "ec_us_cm": 118.5,
   "tds_ppm": 64.0,
   "salinity_psu": 0.0,
-  "timestamp": "2026/10/19 02:09:44"
+  "timestamp": "2026/10/19 02:14:54"
 }
