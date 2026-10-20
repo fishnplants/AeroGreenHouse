@@ -6,9 +6,9 @@
   "ec_us_cm": 118.5,
   "tds_ppm": 64.0,
   "salinity_psu": 0.0,
-  "water_level_cm": 5.6,
-  "volume_L": 5.61,
-  "fill_percent": 16.5,
+  "water_level_cm": 6.7,
+  "volume_L": 10.11,
+  "fill_percent": 19.8,
   "errors": [
     {
       "timestamp": "2026/10/20 20:44:16",
@@ -21,5 +21,5 @@
       "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: lettura non attendibile, controlla il collegamento della sonda alla scheda 'Board4'."
     }
   ],
-  "timestamp": "2026/10/20 21:39:51"
+  "timestamp": "2026/10/20 21:45:03"
 }
