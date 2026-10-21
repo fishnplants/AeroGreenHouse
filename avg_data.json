@@ -1,45 +1,12 @@
 {
-  "avg_temperature": 19.42,
-  "avg_humidity": 66.63,
-  "avg_vpd": 0.64,
-  "max_T": 20.7,
-  "min_T": 18.4,
-  "max_H": 72.5,
-  "min_H": 62.8,
-  "max_VPD": 0.698,
-  "min_VPD": 0.536,
-  "avg_ph": 7.11,
-  "max_ph": 7.21,
-  "min_ph": 7.03,
-  "avg_ec": 1072.0,
-  "max_ec": 1116.0,
-  "min_ec": 1037.0,
-  "avg_tds": 579.25,
-  "max_tds": 603.0,
-  "min_tds": 560.0,
-  "avg_salinity": 0.53,
-  "max_salinity": 0.55,
-  "min_salinity": 0.51,
-  "avg_water_level": 17.3,
-  "max_water_level": 17.3,
-  "min_water_level": 17.3,
-  "avg_volume": 24.79,
-  "max_volume": 24.79,
-  "min_volume": 24.79,
-  "avg_fill": 50.9,
-  "max_fill": 50.9,
-  "min_fill": 50.9,
-  "errors": [
-    {
-      "timestamp": "2026/10/20 20:44:16",
-      "source": "US_water",
-      "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: lettura non attendibile, controlla il collegamento della sonda alla scheda 'Board4'."
-    },
-    {
-      "timestamp": "2026/10/20 20:45:18",
-      "source": "US_water",
-      "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: lettura non attendibile, controlla il collegamento della sonda alla scheda 'Board4'."
-    }
-  ],
-  "timestamp": "2026-10-20"
+  "avg_temperature": 20.04,
+  "avg_humidity": 64.93,
+  "avg_vpd": 0.698,
+  "max_T": 20.9,
+  "min_T": 19.7,
+  "max_H": 95.3,
+  "min_H": 51.0,
+  "max_VPD": 0.972,
+  "min_VPD": 0.093,
+  "timestamp": "2026-10-21"
 }
