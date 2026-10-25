@@ -1,13 +1,13 @@
 {
-  "avg_temperature": 18.8,
-  "avg_humidity": 60.6,
-  "avg_vpd": 0.731,
-  "max_T": 19.5,
-  "min_T": 18.2,
-  "max_H": 66.0,
-  "min_H": 54.7,
-  "max_VPD": 0.832,
-  "min_VPD": 0.649,
+  "avg_temperature": 18.18,
+  "avg_humidity": 58.85,
+  "avg_vpd": 0.738,
+  "max_T": 18.6,
+  "min_T": 17.6,
+  "max_H": 60.7,
+  "min_H": 57.0,
+  "max_VPD": 0.781,
+  "min_VPD": 0.707,
   "avg_water_level": 16.7,
   "max_water_level": 16.7,
   "min_water_level": 16.7,
@@ -19,15 +19,20 @@
   "min_fill": 49.0,
   "errors": [
     {
-      "timestamp": "2026/10/24 02:23:11",
+      "timestamp": "2026/10/25 08:00:31",
       "source": "US_water",
       "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_us,2,3' entro 15s."
     },
     {
-      "timestamp": "2026/10/24 08:25:41",
+      "timestamp": "2026/10/25 14:03:01",
+      "source": "US_water",
+      "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_us,2,3' entro 15s."
+    },
+    {
+      "timestamp": "2026/10/25 20:05:31",
       "source": "US_water",
       "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_us,2,3' entro 15s."
     }
   ],
-  "timestamp": "2026-10-24"
+  "timestamp": "2026-10-25"
 }
