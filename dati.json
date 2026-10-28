@@ -11,11 +11,6 @@
   "fill_percent": 49.0,
   "errors": [
     {
-      "timestamp": "2026/10/25 14:03:01",
-      "source": "US_water",
-      "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_us,2,3' entro 15s."
-    },
-    {
       "timestamp": "2026/10/25 20:05:31",
       "source": "US_water",
       "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_us,2,3' entro 15s."
@@ -59,7 +54,12 @@
       "timestamp": "2026/10/27 20:25:32",
       "source": "US_water",
       "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_us,2,3' entro 15s."
+    },
+    {
+      "timestamp": "2026/10/28 02:28:02",
+      "source": "US_water",
+      "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_us,2,3' entro 15s."
     }
   ],
-  "timestamp": "2026/10/28 02:24:18"
+  "timestamp": "2026/10/28 02:29:29"
 }
