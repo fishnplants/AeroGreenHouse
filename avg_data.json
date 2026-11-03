@@ -1,34 +1,33 @@
 {
-  "avg_temperature": 17.8,
-  "avg_humidity": 59.97,
-  "avg_vpd": 0.703,
-  "max_T": 18.1,
-  "min_T": 17.3,
-  "max_H": 61.9,
-  "min_H": 57.5,
-  "max_VPD": 0.739,
-  "min_VPD": 0.676,
-  "errors": [
-    {
-      "timestamp": "2026/10/27 02:18:02",
-      "source": "US_water",
-      "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_us,2,3' entro 15s."
-    },
-    {
-      "timestamp": "2026/10/27 08:20:32",
-      "source": "US_water",
-      "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_us,2,3' entro 15s."
-    },
-    {
-      "timestamp": "2026/10/27 14:23:02",
-      "source": "US_water",
-      "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_us,2,3' entro 15s."
-    },
-    {
-      "timestamp": "2026/10/27 20:25:32",
-      "source": "US_water",
-      "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_us,2,3' entro 15s."
-    }
-  ],
-  "timestamp": "2026-10-27"
+  "avg_temperature": 16.94,
+  "avg_humidity": 60.14,
+  "avg_vpd": 0.667,
+  "max_T": 17.9,
+  "min_T": 16.6,
+  "max_H": 61.0,
+  "min_H": 58.8,
+  "max_VPD": 0.728,
+  "min_VPD": 0.649,
+  "avg_ph": 5.51,
+  "max_ph": 7.9,
+  "min_ph": 4.37,
+  "avg_ec": 833.02,
+  "max_ec": 1093.0,
+  "min_ec": 232.0,
+  "avg_tds": 449.95,
+  "max_tds": 590.0,
+  "min_tds": 125.0,
+  "avg_salinity": 0.41,
+  "max_salinity": 0.54,
+  "min_salinity": 0.11,
+  "avg_water_level": 16.32,
+  "max_water_level": 19.6,
+  "min_water_level": 15.0,
+  "avg_volume": 23.4,
+  "max_volume": 28.14,
+  "min_volume": 21.49,
+  "avg_fill": 48.0,
+  "max_fill": 57.8,
+  "min_fill": 44.1,
+  "timestamp": "2026-11-03"
 }
