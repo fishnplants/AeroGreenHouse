@@ -2,12 +2,12 @@
   "temperature": 16.4,
   "humidity": 62.3,
   "vpd": 0.612,
-  "ph": 5.12,
-  "ec_us_cm": 768.5,
-  "tds_ppm": 415.0,
-  "salinity_psu": 0.38,
+  "ph": 5.11,
+  "ec_us_cm": 767.1,
+  "tds_ppm": 414.0,
+  "salinity_psu": 0.37,
   "water_level_cm": 19.6,
   "volume_L": 28.12,
   "fill_percent": 57.8,
-  "timestamp": "2026/11/04 12:01:57"
+  "timestamp": "2026/11/04 12:07:08"
 }
