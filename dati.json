@@ -1,7 +1,7 @@
 {
-  "temperature": 16.2,
-  "humidity": 65.7,
-  "vpd": 0.551,
+  "temperature": 16.1,
+  "humidity": 66.0,
+  "vpd": 0.543,
   "ph": 5.57,
   "ec_us_cm": 877.9,
   "tds_ppm": 474.0,
@@ -61,5 +61,5 @@
       "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_us,2,3' entro 15s."
     }
   ],
-  "timestamp": "2026/11/10 11:36:34"
+  "timestamp": "2026/11/10 11:41:44"
 }
