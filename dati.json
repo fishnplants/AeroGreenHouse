@@ -7,7 +7,7 @@
   "tds_ppm": 482.0,
   "salinity_psu": 0.44,
   "water_level_cm": 26.1,
-  "volume_L": 37.42,
+  "volume_L": 37.43,
   "fill_percent": 76.9,
   "errors": [
     {
@@ -61,5 +61,5 @@
       "message": "Non è stato possibile leggere il sensore di pH, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_pH,A0' entro 15s."
     }
   ],
-  "timestamp": "2026/11/12 18:50:59"
+  "timestamp": "2026/11/12 18:56:19"
 }
