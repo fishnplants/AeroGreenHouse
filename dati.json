@@ -1,13 +1,13 @@
 {
-  "temperature": 17.0,
-  "humidity": 64.7,
-  "vpd": 0.593,
-  "ph": 5.88,
-  "ec_us_cm": 957.2,
-  "tds_ppm": 517.0,
-  "salinity_psu": 0.47,
-  "water_level_cm": 26.4,
-  "volume_L": 37.78,
-  "fill_percent": 77.6,
-  "timestamp": "2026/11/14 12:34:17"
+  "temperature": 17.2,
+  "humidity": 63.2,
+  "vpd": 0.625,
+  "ph": 6.53,
+  "ec_us_cm": 1013.0,
+  "tds_ppm": 547.0,
+  "salinity_psu": 0.5,
+  "water_level_cm": 26.5,
+  "volume_L": 37.91,
+  "fill_percent": 77.9,
+  "timestamp": "2026/11/14 12:39:31"
 }
