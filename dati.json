@@ -1,7 +1,7 @@
 {
   "temperature": 16.1,
-  "humidity": 65.8,
-  "vpd": 0.546,
+  "humidity": 66.5,
+  "vpd": 0.535,
   "ph": 6.18,
   "ec_us_cm": 903.3,
   "tds_ppm": 488.0,
@@ -9,5 +9,5 @@
   "water_level_cm": 27.7,
   "volume_L": 39.67,
   "fill_percent": 81.5,
-  "timestamp": "2026/11/15 20:18:38"
+  "timestamp": "2026/11/15 20:23:50"
 }
