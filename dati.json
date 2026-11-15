@@ -1,13 +1,13 @@
 {
   "temperature": 16.0,
-  "humidity": 63.4,
-  "vpd": 0.581,
-  "ph": 6.21,
-  "ec_us_cm": 905.3,
-  "tds_ppm": 489.0,
+  "humidity": 64.6,
+  "vpd": 0.562,
+  "ph": 6.13,
+  "ec_us_cm": 904.1,
+  "tds_ppm": 488.0,
   "salinity_psu": 0.44,
   "water_level_cm": 27.7,
   "volume_L": 39.67,
   "fill_percent": 81.5,
-  "timestamp": "2026/11/15 19:42:05"
+  "timestamp": "2026/11/15 19:47:17"
 }
