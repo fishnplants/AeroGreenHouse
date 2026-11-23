@@ -1,10 +1,10 @@
 {
   "temperature": 16.9,
-  "humidity": 63.4,
-  "vpd": 0.611,
-  "ph": 6.02,
-  "ec_us_cm": 1247.0,
-  "tds_ppm": 674.0,
+  "humidity": 63.5,
+  "vpd": 0.61,
+  "ph": 6.01,
+  "ec_us_cm": 1244.0,
+  "tds_ppm": 672.0,
   "salinity_psu": 0.62,
   "water_level_cm": 24.4,
   "volume_L": 34.98,
@@ -62,5 +62,5 @@
       "message": "Non è stato possibile leggere il sensore di conducibilità (EC), controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_EC,100' entro 15s."
     }
   ],
-  "timestamp": "2026/11/23 18:40:09"
+  "timestamp": "2026/11/23 18:45:22"
 }
