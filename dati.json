@@ -1,7 +1,7 @@
 {
   "temperature": 16.8,
-  "humidity": 61.3,
-  "vpd": 0.643,
+  "humidity": 61.4,
+  "vpd": 0.641,
   "ph": 6.06,
   "ec_us_cm": 1180.0,
   "tds_ppm": 638.0,
@@ -11,16 +11,6 @@
   "fill_percent": 74.6,
   "h_plant_cm": 1.5,
   "errors": [
-    {
-      "timestamp": "2026/11/23 08:54:53",
-      "source": "EC",
-      "message": "Non è stato possibile leggere il sensore di conducibilità (EC), controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_EC,100' entro 15s."
-    },
-    {
-      "timestamp": "2026/11/23 09:24:53",
-      "source": "pH",
-      "message": "Non è stato possibile leggere il sensore di pH, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_pH,A0' entro 15s."
-    },
     {
       "timestamp": "2026/11/23 09:25:08",
       "source": "EC",
@@ -60,7 +50,17 @@
       "timestamp": "2026/11/23 10:55:53",
       "source": "EC",
       "message": "Non è stato possibile leggere il sensore di conducibilità (EC), controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_EC,100' entro 15s."
+    },
+    {
+      "timestamp": "2026/11/23 11:25:53",
+      "source": "pH",
+      "message": "Non è stato possibile leggere il sensore di pH, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_pH,A0' entro 15s."
+    },
+    {
+      "timestamp": "2026/11/23 11:26:08",
+      "source": "EC",
+      "message": "Non è stato possibile leggere il sensore di conducibilità (EC), controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_EC,100' entro 15s."
     }
   ],
-  "timestamp": "2026/11/23 11:24:21"
+  "timestamp": "2026/11/23 11:29:46"
 }
