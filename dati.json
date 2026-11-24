@@ -1,7 +1,7 @@
 {
-  "temperature": 16.5,
+  "temperature": 16.7,
   "humidity": 61.1,
-  "vpd": 0.635,
+  "vpd": 0.642,
   "ph": 5.98,
   "ec_us_cm": 1142.0,
   "tds_ppm": 617.0,
@@ -9,58 +9,5 @@
   "water_level_cm": 24.3,
   "volume_L": 34.84,
   "fill_percent": 71.6,
-  "h_plant_cm": 0.7,
-  "errors": [
-    {
-      "timestamp": "2026/11/23 09:25:08",
-      "source": "EC",
-      "message": "Non è stato possibile leggere il sensore di conducibilità (EC), controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_EC,100' entro 15s."
-    },
-    {
-      "timestamp": "2026/11/23 09:36:50",
-      "source": "US_water",
-      "message": "Non è stato possibile leggere il sensore ultrasonico del serbatoio, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_us,2,3' entro 15s."
-    },
-    {
-      "timestamp": "2026/11/23 09:55:08",
-      "source": "pH",
-      "message": "Non è stato possibile leggere il sensore di pH, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_pH,A0' entro 15s."
-    },
-    {
-      "timestamp": "2026/11/23 09:55:23",
-      "source": "EC",
-      "message": "Non è stato possibile leggere il sensore di conducibilità (EC), controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_EC,100' entro 15s."
-    },
-    {
-      "timestamp": "2026/11/23 10:25:23",
-      "source": "pH",
-      "message": "Non è stato possibile leggere il sensore di pH, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_pH,A0' entro 15s."
-    },
-    {
-      "timestamp": "2026/11/23 10:25:38",
-      "source": "EC",
-      "message": "Non è stato possibile leggere il sensore di conducibilità (EC), controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_EC,100' entro 15s."
-    },
-    {
-      "timestamp": "2026/11/23 10:55:38",
-      "source": "pH",
-      "message": "Non è stato possibile leggere il sensore di pH, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_pH,A0' entro 15s."
-    },
-    {
-      "timestamp": "2026/11/23 10:55:53",
-      "source": "EC",
-      "message": "Non è stato possibile leggere il sensore di conducibilità (EC), controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_EC,100' entro 15s."
-    },
-    {
-      "timestamp": "2026/11/23 11:25:53",
-      "source": "pH",
-      "message": "Non è stato possibile leggere il sensore di pH, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_pH,A0' entro 15s."
-    },
-    {
-      "timestamp": "2026/11/23 11:26:08",
-      "source": "EC",
-      "message": "Non è stato possibile leggere il sensore di conducibilità (EC), controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_EC,100' entro 15s."
-    }
-  ],
-  "timestamp": "2026/11/24 18:06:33"
+  "timestamp": "2026/11/24 18:11:19"
 }
