@@ -1,7 +1,7 @@
 {
-  "temperature": 16.7,
+  "temperature": 16.6,
   "humidity": 63.2,
-  "vpd": 0.608,
+  "vpd": 0.604,
   "ph": 5.98,
   "ec_us_cm": 1137.0,
   "tds_ppm": 614.0,
@@ -17,5 +17,5 @@
       "message": "Non è stato possibile leggere il sensore di pH, controlla il motivo: Nessuna risposta dalla scheda 'Board4' (/dev/ttyUSB0) al comando 'read_pH,A0' entro 15s."
     }
   ],
-  "timestamp": "2026/11/25 17:48:12"
+  "timestamp": "2026/11/25 17:53:24"
 }
