@@ -3,12 +3,12 @@
   "humidity": 64.0,
   "vpd": 0.598,
   "ph": 6.03,
-  "ec_us_cm": 1159.0,
-  "tds_ppm": 626.0,
+  "ec_us_cm": 1161.0,
+  "tds_ppm": 627.0,
   "salinity_psu": 0.58,
   "water_level_cm": 25.1,
   "volume_L": 35.96,
   "fill_percent": 73.9,
   "h_plant_cm": 0.0,
-  "timestamp": "2026/11/26 16:18:17"
+  "timestamp": "2026/11/26 16:23:31"
 }
