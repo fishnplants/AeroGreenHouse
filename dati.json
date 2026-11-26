@@ -1,7 +1,7 @@
 {
-  "temperature": 15.4,
-  "humidity": 67.0,
-  "vpd": 0.506,
+  "temperature": 15.3,
+  "humidity": 67.2,
+  "vpd": 0.5,
   "ph": 5.94,
   "ec_us_cm": 1154.0,
   "tds_ppm": 624.0,
@@ -10,5 +10,5 @@
   "volume_L": 34.5,
   "fill_percent": 70.9,
   "h_plant_cm": 0.0,
-  "timestamp": "2026/11/26 21:41:18"
+  "timestamp": "2026/11/26 21:46:29"
 }
